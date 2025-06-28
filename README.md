@@ -2,8 +2,8 @@
 
 A professionally styled and responsive website for **Dr. Serena Blake, PsyD**, a licensed clinical psychologist based in Los Angeles, CA. Built using **Next.js 14**, **Tailwind CSS**, and **Shadcn/UI**, the site reflects a calming, elegant design inspired by [drjenniferhahm.com](https://www.drjenniferhahm.com/).
 
-> 🔗 **Live Site**: [https://your-vercel-site.vercel.app](https://your-vercel-site.vercel.app)  
-> *(Replace with your actual deployed Vercel URL)*
+🌐 **Live Site:** [https://dr-serena-blake-site.vercel.app](https://dr-serena-blake-site.vercel.app)
+
 
 
 ---
@@ -67,28 +67,4 @@ A professionally styled and responsive website for **Dr. Serena Blake, PsyD**, a
 
 ---
 
-## 📁 Folder Structure
-├── app/
-│ ├── components/
-│ │ ├── About.tsx // About section
-│ │ ├── Contact.tsx // Contact form + contact info
-│ │ ├── FAQ.tsx // Accordion-based FAQ using shadcn/ui
-│ │ ├── Hero.tsx // Hero section with background video
-│ │ ├── Services.tsx // Three service cards with images
-│ ├── layout.tsx // Global layout with metadata
-│ └── page.tsx // Home page with all components
-├── public/
-│ ├── images/
-│ │ ├── dr-serena.jpg // Therapist headshot
-│ │ ├── anxiety.jpg // Image for Anxiety & Stress service
-│ │ ├── relationship.jpg // Image for Relationship Counseling
-│ │ └── trauma.jpg // Image for Trauma Recovery
-│ └── videos/
-│ └── hero-bg.mp4 // Background video for hero
-├── styles/
-│ └── globals.css // Tailwind directives & base styles
-├── tsconfig.json // TypeScript + path aliases
-├── tailwind.config.ts // Tailwind configuration
-├── postcss.config.js // PostCSS config
-├── package.json // Project metadata and dependencies
-└── README.md // Project description and instructions
+
